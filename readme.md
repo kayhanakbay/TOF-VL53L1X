@@ -40,3 +40,10 @@ Scene browsing and multi-zone detection is now possible with the VL53L1, thanks 
 * Xshutdown (reset) and interrupt GPIO
 * Full set of software driver (Linux and Android compatible) for turnkey ranging
 
+
+
+#### Important links:
+For more information, please refer to:
+
+- [VL53L1 Product page](https://www.st.com/en/imaging-and-photonics-solutions/vl53l1.html)
+- [VL53L1 Datasheet](https://www.st.com/resource/en/datasheet/vl53l1.pdf)
